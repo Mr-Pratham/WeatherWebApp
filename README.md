@@ -8,4 +8,6 @@ Download all the files and run using the method given below.
 4. Run ```npm install express```
 5. Run ```nodedemon filename.js```
 6. Open ```http://localhost:3000/``` on your web browser
-Search for your city and get the weather data                                      
+# Seach for your city
+Seach for your city by submitting city name 
+Result will be displayed on the browser screen
